@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-apis-python",
+      "title": "Consumindo APIs com Python",
+      "description": "Consumo de APIs REST com requests, parâmetros de consulta, JSON e tratamento de erros",
+      "path": "assignments/consuming-apis-python",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
